@@ -4,5 +4,5 @@ import releaseVersion
 
 if __name__ == '__main__':
     setup(name='marda_steffenBrinckmann',
-          version=releaseVersion.get_version()[1:]
+          version=0.1
     )
